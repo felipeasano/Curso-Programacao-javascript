@@ -1,0 +1,6 @@
+    Funcionando como uma calculadora
+    Ao abrir o HTML o navegador pede ao usuario para entrar como
+um numero inteiro, um caractere q representa uma operacao matemtica
+e um segundo inteiro, respectivamente
+    apos o termino da insercao, imprime no navegador o resultado da
+operacao digitada como entrada

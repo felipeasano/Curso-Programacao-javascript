@@ -1,0 +1,1 @@
+Ao abrir o arquivo index.html, Mostra o valor da variavel "nota"(Resultado) na tela.
